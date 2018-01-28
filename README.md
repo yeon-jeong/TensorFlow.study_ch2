@@ -1,12 +1,6 @@
 # tf.study
 
-
-
-
 MACHINE-LEARNING with TensorFlow by Nishant Shukla
-
-
-
 
 [WEEK1]
 
