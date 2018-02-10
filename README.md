@@ -10,6 +10,6 @@ MACHINE-LEARNING with TensorFlow by Nishant Shukla
 
 [WEEK2]
 
- 	 CH4. A gentle introduction to classification
+ 	 CH4. A Gentle Introduction to Classification
 	 
-	 CH5. Automatically clustering data
+	 CH5. Automatically Clustering Data
